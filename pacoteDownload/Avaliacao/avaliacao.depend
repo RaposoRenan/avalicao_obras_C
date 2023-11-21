@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699618742 source:c:\users\renan\onedrive\documents\codblock\avaliacao\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	"obras.h"
+
+1699618742 c:\users\renan\onedrive\documents\codblock\avaliacao\obras.h
+
+1699618742 source:c:\users\renan\onedrive\documents\codblock\avaliacao\obras.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"obras.h"
+

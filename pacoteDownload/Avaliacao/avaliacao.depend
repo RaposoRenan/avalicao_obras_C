@@ -14,3 +14,18 @@
 	<ctype.h>
 	"obras.h"
 
+1699600742 source:c:\users\renan\onedrive\documents\github\ups\avalicao_obras_c\pacotedownload\avaliacao\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	"obras.h"
+
+1699600742 c:\users\renan\onedrive\documents\github\ups\avalicao_obras_c\pacotedownload\avaliacao\obras.h
+
+1699600742 source:c:\users\renan\onedrive\documents\github\ups\avalicao_obras_c\pacotedownload\avaliacao\obras.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"obras.h"
+
